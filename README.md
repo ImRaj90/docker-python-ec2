@@ -1,2 +1,2 @@
 # docker-python-ec2
-This is python app
+This is python flask project
